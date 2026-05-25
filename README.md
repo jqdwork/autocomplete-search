@@ -7,7 +7,7 @@ Autocomplete search built with MUI Autocomplete component, fetching users from t
 1. Clone the repository
 ```bash
 git clone https://github.com/jqdwork/Autocomplete-search.git
-cd Autocomplete-search
+cd autocomplete-search
 ```
 
 2. Install dependencies
